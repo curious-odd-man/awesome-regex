@@ -79,7 +79,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Text Generators Based on Regex Pattern
 
-- [RgxGen](https://github.com/curious-odd-man/RgxGen) - Generate Text values that match regex pattern.
+- [RgxGen](https://github.com/curious-odd-man/RgxGen) - Java library that allows to generate text values that match defined regex pattern.
 
 ## Learning
 
